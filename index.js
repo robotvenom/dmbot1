@@ -7,7 +7,7 @@ const keepAlive = require('./server')
 client.on("ready", () => {
   console.log(`O bot está funcionando corretamente, nenhum erro ocorreu`)
   console.log(`Prefix : ${prefix}`)
-  console.log(`https://discord.gg/mmmXUAv8CK`)
+  console.log(`https://discord.gg/wQPqF9a72r`)
   client.user.setActivity({ type: "WATCHING", name: `Mass Osm` });
 });
 
